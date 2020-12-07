@@ -4,6 +4,11 @@ Asteroid Fighter
 By : lwz7512 @2020/12/01
 
 
+![screenshot](./asteroid_fighter.png)
+
+
+[DEMO](https://youtu.be/LSOGQ1c0PoU)
+
 
 ## Game Features
 
